@@ -1,0 +1,642 @@
+<html><body><table border = '1'><!--<caption 안에 각 측정소명, 년,월 출력할것>--><caption align = 'center'>태종대 측정소 2022년 08월 대기질 정보 일평균자료</caption><tr><td colspan='7' align = 'right'>PM-2.5항목은 2015년부터 환경기준이 적용됩니다.</tr><tr align = 'center' bgcolor='#f6f6f6'><th rowspan = '2'>측정 시간</th><th colspan = '6'>측정항목</th></tr><tr align = 'center' bgcolor='#f6f6f6'><th>초미세먼지<br/>PM-2.5(㎍/㎥)</th><th>미세먼지<br/>PM-10(㎍/㎥)</th><th>아황산가스<br/>SO2(ppm)</th><th>오존<br/>O3(ppm)</th><th>이산화질소<br/>NO2(ppm)</th><th>일산화탄소<br/>CO(ppm)</th></tr><tr align = 'center' bgcolor='#f6f6f6'><th>환경기준</th><th>35/24/h이하</th><th>100/24h이하</th><th>0.15/1h이하</th><th>0.1/1h이하</th><th>0.1/1h이하</th><th>25/1h이하</th></tr><tr align = 'right'><td id='sub_time'>01일</td><td align='center' id='sub_normtd_blue'>5</td><td align='center' id='sub_normtd_blue'>17</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.004</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr align = 'right'><td id='sub_time'>02일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.017</td><td align='center' id='sub_normtd_blue'>0.008</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr align = 'right'><td id='sub_time'>03일</td><td align='center' id='sub_normtd_blue'>2</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.009</td><td align='center' id='sub_normtd_blue'>0.012</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr align = 'right'><td id='sub_time'>04일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.015</td><td align='center' id='sub_normtd_blue'>0.015</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>05일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>06일</td><td align='center' id='sub_normtd_blue'>6</td><td align='center' id='sub_normtd_blue'>17</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.022</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>07일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.023</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>08일</td><td align='center' id='sub_normtd_blue'>3</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.019</td><td align='center' id='sub_normtd_blue'>0.009</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr align = 'right'><td id='sub_time'>09일</td><td align='center' id='sub_normtd'>점검중</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.017</td><td align='center' id='sub_normtd_blue'>0.01</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr align = 'right'><td id='sub_time'>10일</td><td align='center' id='sub_normtd'>점검중</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.015</td><td align='center' id='sub_normtd_blue'>0.011</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr align = 'right'><td id='sub_time'>11일</td><td align='center' id='sub_normtd'>점검중</td><td align='center' id='sub_normtd_blue'>7</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.01</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr align = 'right'><td id='sub_time'>12일</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>23</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.039</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>13일</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.038</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>14일</td><td align='center' id='sub_normtd_blue'>5</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.022</td><td align='center' id='sub_normtd_blue'>0.016</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>15일</td><td align='center' id='sub_normtd_blue'>2</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.015</td><td align='center' id='sub_normtd_blue'>0.01</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr align = 'right'><td id='sub_time'>16일</td><td align='center' id='sub_normtd_blue'>5</td><td align='center' id='sub_normtd_blue'>16</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.018</td><td align='center' id='sub_normtd_blue'>0.016</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>17일</td><td align='center' id='sub_normtd_blue'>3</td><td align='center' id='sub_normtd_blue'>6</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.052</td><td align='center' id='sub_normtd_blue'>0.008</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>18일</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>17</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.045</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.3</td></tr><tr align = 'right'><td id='sub_time'>19일</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>18</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.033</td><td align='center' id='sub_normtd_blue'>0.016</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>20일</td><td align='center' id='sub_normtd_blue'>5</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.024</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>21일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.038</td><td align='center' id='sub_normtd_blue'>0.007</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>22일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>18</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.029</td><td align='center' id='sub_normtd_blue'>0.018</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>23일</td><td align='center' id='sub_normtd_blue'>7</td><td align='center' id='sub_normtd_blue'>18</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.031</td><td align='center' id='sub_normtd_blue'>0.019</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>24일</td><td align='center' id='sub_normtd_blue'>3</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.031</td><td align='center' id='sub_normtd_blue'>0.008</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>25일</td><td align='center' id='sub_normtd_blue'>6</td><td align='center' id='sub_normtd_blue'>16</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.038</td><td align='center' id='sub_normtd_blue'>0.011</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>26일</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>23</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.054</td><td align='center' id='sub_normtd_blue'>0.011</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>27일</td><td align='center' id='sub_normtd_blue'>14</td><td align='center' id='sub_normtd_blue'>28</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.043</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>28일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.034</td><td align='center' id='sub_normtd_blue'>0.005</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>29일</td><td align='center' id='sub_normtd_blue'>3</td><td align='center' id='sub_normtd_blue'>17</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.027</td><td align='center' id='sub_normtd_blue'>0.008</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>30일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>14</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.025</td><td align='center' id='sub_normtd_blue'>0.012</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr align = 'right'><td id='sub_time'>31일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>10</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.024</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.2</td></tr></table></body></html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko" >
+<head><meta http-equiv="Content-Type" content="text/html; charset=euc-kr" /><meta http-equiv="CACHE-CONTROL" content="NO-CACHE" /><meta http-equiv="PRAGMA" content="NO-CACHE" />
+<!--<meta http-equiv="Content-Security-Policy" content="default-src &#39;self&#39;; style-src &#39;unsafe-inline&#39;" /><meta http-equiv="Content-Security-Policy" content="script-src &#39;self&#39;" />
+-->
+<meta http-equiv="X-Content-Type-Options" content="nosniff" /><meta http-equiv="x-xss-protection" content="1" mode="block" />
+<!-- -->
+
+<title>
+	부산광역시 보건환경정보 공개시스템
+</title><link rel="stylesheet" href="../css/import.css" type="text/css" />
+<script type="text/javascript" src="../js/sub.js" ></script><noscript><p class="blind">JavaScript를 사용할 수 없습니다.<br />일부 콘텐츠가 정상적으로 작동하지 않을 가능성이 있습니다.</p></noscript>
+
+    <script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.js" integrity="sha384-1M4znLCH9J+PsWq0vgXhPTgxufgp3ZgLkRMM8y4C3le78/b/UjieeQlIoOc8uxL3" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.js" integrity="sha384-JgeFAmqbtfR5iDk0S8ghtvYKDYypBmfwr1H7IZLiU+Wv7LMatpWYQDauStLC0/Y5" crossorigin="anonymous" ></script>
+
+ <style type="text/css">
+
+</style>
+
+<link href="/WebResource.axd?d=7qRnPEeT9X-olN912zYLDEn6SBxzWp_XJ91_ypZTy1MW8CDSb6EEqa8oqGj3wc5VfqLWHX71mUj4Ux8nBuHHDS1wXA-tCBgOrNxFD8a1x9p2rbkzgMldE-tMNav5xv-Qi_O7U1GQz9hIBY4qlgQKjw2&amp;t=633480313420000000" type="text/css" rel="stylesheet" /></head>
+<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
+ <form name="aspnetForm" method="post" action="./air002_3.aspx?areaindex=221141&amp;siteselect=8&amp;sitename=%ud0dc%uc885%ub300&amp;yearselect=12&amp;monthselect=7&amp;year=2022&amp;month=08" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_ToolkitScriptManager1_HiddenField" id="ctl00_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="ctl00_ContentPlaceHolder1_TabContainer1_ClientState" id="ctl00_ContentPlaceHolder1_TabContainer1_ClientState" value="{&quot;ActiveTabIndex&quot;:2,&quot;TabState&quot;:[true,true,true]}" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=OvFlt26IlHMmny7ooKFiT6DpD6BTchOB9OP3mNU4EqbmDTBRCHQ6wZQZ-uK4ZXUEywyUJ4cs4dXmn5LZkA6F4a6A9PmAtIyuM_TBoQ6IpP81&amp;t=637946934636789766" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=xrYUKnQQECzqjLdBVANUXB9JhHbrNuD-V_6kQEuqDJnxqVeYX_c4SVcuv7CRYpTv_fXAOi0-kL6J1hBbFUpNXFODFRiFLTv-kMk0k8kkuyIqA6vdD50K3Acz7soqGJP54ytePfjCFLClcw0wXDD4U-927bZZwpI820eCEjk8Zb01&amp;t=ffffffffe6d5a9ac" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VNRogepQpazt4VPoxGTeQP9sjymGoD4y0pLpc8aDAf5lhyeNJ9LWOxT65mgMUG-ByUoyXvjBCY5VtFUkqAMu_fzxXmneO9grL_aX2kbVu-U9ev3VRhWuaIPVZ4lyosCozDtgV2wxY3uniWc_2O96iBoaYOS2Me8tmxZ0E8YbQsyNpzBTPGTTk7LLbrSd8A0A0&amp;t=ffffffffe6d5a9ac" type="text/javascript"></script>
+<script src="/environmental/air002_3.aspx?_TSM_HiddenField_=ctl00_ToolkitScriptManager1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.0.20820.34868%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3ako-KR%3a7e011c2b-034e-43be-af17-cd9c7e5d263b%3a865923e8%3a91bd373d%3aad1f21ce%3a596d588c" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="86499520" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+</div>
+
+<!--스킵네비게이션 시작-->
+
+
+<h2 class="blind">스킵네비게이션</h2>
+<ul id="accessibility">
+	<li><a href="#content">본문내용으로 바로가기</a></li>
+	<li><a href="#topmenu">대메뉴로 바로가기</a></li>
+	<li><a href="#left_title">왼쪽서브메뉴로 바로가기</a></li>
+	<li><a href="#body_copy">카피라이트 바로가기</a></li>
+</ul>
+<!--스킵네비게이션 끝-->
+<hr />
+
+<!--상단 기본 시작-->
+<?xml version="1.0" encoding="euc-kr"?>
+<div id="top_basic_wrap">
+<h2 class="blind">상단 기본메뉴</h2>
+	<div id="top_basic">
+    <a href="http://ihe.busan.go.kr" title="Home 이동">
+      <img src="/images/common/smenu_home1.gif" alt="보건환경연구원 바로가기" />
+    </a>
+		<!--<a href="http://ihe.busan.go.kr" title="Home 이동"><img src="../images/common/smenu_home.gif" alt="Home 이동" /></a>-->
+		<!--<a href="#" title="Admin 이동"><img src="../images/common/smenu_admin.gif" alt="Admin 이동" /></a>
+		<a href="#" title="Sitemap 이동"><img src="../images/common/smenu_site.gif" alt="Sitemap 이동" /></a>-->
+		<a href="http://www.busan.go.kr" target="_blank" title="부산시청 바로가기"><img src="/images/common/go_busan.gif" alt="부산시청 바로가기" /></a>
+	</div>
+</div>
+<!--상단 기본 끝-->
+<hr />
+<!--상단 시작-->
+<?xml version="1.0" encoding="euc-kr"?>
+
+<div id="top_wrap">
+	<div id="top_wrap02">
+		<div id="top_left">
+      <!--로고 시작-->
+      <h2 class="blind">로고</h2>
+      <div id="logo">
+        <a href="/" title="Home 이동">
+          <img src="../images/common/logo.png" alt="" />
+        </a>
+        <!--<a href="/" title="Home 이동"><img src="images/common/logo_title.gif" alt="" class="pad_l01" /></a>-->
+      </div>
+      <!--로고 끝-->
+			<hr />
+			<!--상단아이콘메뉴 시작
+			<h2 class="blind">상단아이콘메뉴</h2>
+			<div id="icon_menu">
+				<noscript><a href="#" target="_blank"></noscript>
+				<a href="#" onmouseover="icon_img1.src='/images/common/icon_zoomout_on.gif'" onmouseout="icon_img1.src='/images/common/icon_zoomout_off.gif'" onfocus="this.onmouseover();" onblur="this.onmouseout();"><img src="/images/common/icon_zoomout_off.gif" border="0" name="icon_img1" alt="확대"/></a>
+				<noscript><a href="#" target="_blank"></noscript>
+				<a href="#" onmouseover="icon_img2.src='/images/common/icon_zoomin_on.gif'" onmouseout="icon_img2.src='/images/common/icon_zoomin_off.gif'" onfocus="this.onmouseover();" onblur="this.onmouseout();"><img src="/images/common/icon_zoomin_off.gif" border="0" name="icon_img2" alt="축소"/></a>
+				<noscript><a href="#" target="_blank"></noscript>
+				<a href="#" onmouseover="icon_img3.src='/images/common/icon_print_on.gif'" onmouseout="icon_img3.src='/images/common/icon_print_off.gif'" onfocus="this.onmouseover();" onblur="this.onmouseout();"><img src="/images/common/icon_print_off.gif" border="0" name="icon_img3" alt="인쇄"/></a>
+			</div>
+			상단아이콘메뉴 끝
+			<hr />-->
+		</div>
+		<div id="top_right">
+			<!--대메뉴 시작-->
+			<h2 class="blind">대메뉴</h2>
+			<div id="topmenu">
+				<ul>
+					<li class="m">&nbsp;</li>
+					<li><img src="../images/common/topmenu_line.gif" alt="" /></li>
+					<li class="m01">
+						<a onmouseover="top_list(1);return false;" href="../health/virus_007_01.aspx" onfocus="this.onmouseover();" onkeypress=""><img src="../images/common/topmenu_on01.gif" id="top_menutab1" alt="보건정보" /></a>
+						<div id="top_menulist1" class="sub_menu01" style="display:block;">
+						<ul>
+							<li><a href="../health/virus_007_01.aspx">질병정보</a></li>
+							<li><a href="../health/foods_002_01.aspx">식품정보</a></li>
+							<li><a href="../health/medicine_002_01.aspx">약품정보</a></li>
+              <li><a href="../health/foods_001_01.aspx">농산물정보</a></li>
+						</ul>
+						</div>
+					</li>
+					<li><img src="../images/common/topmenu_line.gif" alt="" /></li>
+					<li class="m02">
+						<a onmouseover="top_list(2);return false;" href="../environmental/air001.aspx" onfocus="this.onmouseover();"  onkeypress=""><img src="../images/common/topmenu_off02.gif" id="top_menutab2" alt="환경정보" /></a>
+						<div id="top_menulist2" class="sub_menu02" style="display:none;">
+						<ul>
+							<li><a href="../environmental/air001.aspx">대기환경</a></li>
+							<li><a href="../environmental/voc002_02.aspx">생활환경</a></li>
+							<li><a href="../environmental/water_01_001.aspx">수질환경</a></li>
+							<li><a href="../environmental/soil_01_001.aspx">토양환경</a></li>
+						</ul>
+						</div>
+					</li>
+					<li><img src="../images/common/topmenu_line.gif" alt="" /></li>
+					<li class="m03">
+						<a onmouseover="top_list(3);return false;" href="../livestock/hygiene_001_03.aspx" onfocus="this.onmouseover();" onkeypress=""><img src="../images/common/topmenu_off03.gif" id="top_menutab3" alt="동물위생정보" /></a>
+						<div id="top_menulist3" class="sub_menu03" style="display:none;">
+						<ul>
+							<li><a href="../livestock/hygiene_001_03.aspx">동물방역</a></li>
+							<li><a href="../livestock/livestock_001_03.aspx">축산물위생</a></li>
+						</ul>
+						</div>
+					</li>
+					<li><img src="../images/common/topmenu_line.gif" alt="" /></li>
+					<li class="m04">
+						<a onmouseover="top_list(4);return false;" href="../data/data001.aspx" onfocus="this.onmouseover();" onkeypress=""><img src="../images/common/topmenu_off04.gif" id="top_menutab4" alt="자료실" /></a>
+						<div id="top_menulist4" class="sub_menu04" style="display:none;">
+						<ul>
+							<li><a href="../data/data001.aspx">공지사항</a></li>
+							<li><a href="../data/data002.aspx">보건자료</a></li>
+							<li><a href="../data/data005.aspx">환경자료</a></li>
+							<li><a href="../data/data010.aspx">동물위생자료</a></li>
+							<!--20230508_명칭 수정 요청
+							<li><a href="../data/data001.aspx">공지사항</a></li>
+							<li><a href="../data/data002.aspx">보건정보</a></li>
+							<li><a href="../data/data005.aspx">환경정보</a></li>
+							<li><a href="../data/data010.aspx">동물위생정보</a></li>-->
+							<!--<li><a href="../data/health.jsp">보건환경 Life</a></li>
+							<li><a href="../data/research.jsp">연구원보</a></li>
+							<li><a href="../data/sense.jsp">용어설명상식</a></li>
+							<li><a href="../data/situation.jsp">상황판보기</a></li>-->
+						</ul>
+						</div>
+					</li>
+					<li><img src="../images/common/topmenu_line.gif" alt="" /></li>
+				</ul>
+			</div>
+			<!--대메뉴 끝-->
+		</div>
+	</div>
+</div>
+<!--상단 끝-->
+<hr />
+
+<!--서브상단이미지 시작-->
+
+
+<h2 class="blind">서브상단이미지</h2>
+<div id="sub_img_wrap">
+	<div id="sub_img">
+		<img src="../images/natural/sub_img.jpg" alt="건강한 시민 쾌적한 도시환경. 부산보건환경연구원이 쾌적한 도시를 위해 함께합니다. " />
+	</div>
+</div>
+<!--서브상단이미지 끝-->
+<hr />
+
+<!--서브 시작-->
+<div id="sub_middle">
+	<div id="sub_wrap">
+		<!--레프트영역 시작-->
+		<?xml version="1.0" encoding="euc-kr"?>
+<div id="left_wrap">
+	<!--레프트타이틀 시작-->
+	<h2 class="blind">왼쪽서브메뉴</h2>
+	<div id="left_title">
+		<div class="left_title01">
+			<img src="../images/natural/left_title02.gif" alt="natural" />
+		</div>
+		<div class="left_title02">
+			<img src="../images/natural/left_title01.gif" alt="환경정보" />
+		</div>
+	</div>
+	<!--레프트타이틀 끝-->
+	<!--레프트메뉴 시작-->
+	<div id="left_menu">
+		<ul>
+			<li>
+				<!--<a onmouseover="left02_list(1);return false;" href="../environmental/air001.aspx" onfocus="this.onmouseover();" onmouseover="" onkeypress=""><img src="../images/natural/leftmenu_on01.gif" id="left02_menutab1" alt="대기환경" /></a>-->
+        <a onmouseover="left02_list(1);return false;" href="../environmental/air001.aspx" onfocus="this.onmouseover();" onmouseover="" onkeypress=""><img src="../images/natural/leftmenu_on01.gif" id="left02_menutab1" alt="대기환경" /></a>
+				<div id="left02_menulist1" style="display:block">
+				<ul>
+					<li><a href="../environmental/air001.aspx">대기질</a></li>					
+					<li><a href="../environmental/eair_03_007.aspx">대기오염 예경보제</a></li>
+                    <li><a href="../environmental/air006.aspx">대기질 진단평가</a></li>
+                    <li><a href="../environmental/eair_04_001.aspx">대기중금속</a></li>
+					<!--<li><a href="../environmental/eair_05_001.aspx">황사</a></li>
+					<li><a href="../environmental/eair_06_001.aspx">산성강하물</a></li>-->
+					<!--<li><a href="../environmental/eair_07_001.aspx">터널오염도</a></li>-->
+				</ul>
+				</div>
+			</li>
+			<li>
+				<a onmouseover="left02_list(2);return false;" href="../environmental/voc002_02.aspx" onfocus="this.onmouseover();" onmouseover="" onkeypress=""><img src="../images/natural/leftmenu_off02.gif" id="left02_menutab2" alt="생활환경" /></a>
+				<div id="left02_menulist2" style="display:none">
+				<ul>
+                    <li><a href="../environmental/voc002_02.aspx">악취</a></li>
+                    <!--<li><a href="../environmental/idaq002_1.aspx">실내 공기질</a></li>-->
+					<li><a href="http://heis.busan.go.kr/idaq">실내 공기질</a></li>
+					<li><a href="../environmental/elife_02_001.aspx">석면</a></li>
+					<li><a href="../environmental/elife_03_001_04.aspx">꽃가루</a></li>
+					<li><a href="../environmental/elife_04_001.aspx">환경소음</a></li>
+          <li><a href="../environmental/elife_05_001.aspx">도로교통소음</a></li>
+          <li><a href="../environmental/elife_06_001.aspx">환경방사능</a></li>
+				</ul>
+				</div>
+			</li>
+			<li>
+	    	<a onmouseover="left02_list(3);return false;" href="../environmental/water_01_001.aspx" onfocus="this.onmouseover();" onmouseover="" onkeypress=""><img src="../images/natural/leftmenu_off03.gif" id="left02_menutab3" alt="수질환경" /></a>
+				<div id="left02_menulist3" style="display:none">
+				<ul>
+					<li><a href="../environmental/water_01_001.aspx">하천수질(수질측정망)</a></li>
+          <li><a href="../environmental/water_01_007.aspx">하천수질(자동측정망)</a></li>
+          <li><a href="../environmental/water_09_001.aspx">하천수질(낙동강염분(자동))</a></li>
+					<li><a href="../environmental/water_02_001.aspx">해양환경측정망</a></li>
+<!--					<li><a href="../environmental/water_03_001.aspx">부산항 수질</a></li> -->
+					<li><a href="../environmental/water_04_001.aspx">해수욕장 수질</a></li>
+					<!--<li><a href="../environmental/water_05_001.aspx">서낙동강 플랑크톤 조사</a></li>-->
+					<li><a href="../environmental/water_06_001.aspx">먹는물공동시설 수질</a></li>
+					<li><a href="../environmental/water_07_001.aspx">민방위비상급수시설 수질</a></li>
+				</ul>
+				</div>
+			</li>
+			<li>
+				<a onmouseover="left02_list(4);return false;" href="../environmental/soil_01_001.aspx" onfocus="this.onmouseover();" onmouseover="" onkeypress=""><img src="../images/natural/leftmenu_off04.gif" id="left02_menutab4" alt="토양환경" /></a>
+				<div id="left02_menulist4" style="display:none">
+				<ul>
+					<li><a href="../environmental/soil_01_001.aspx">토양</a></li>
+                      <li>
+                        <a href="../environmental/soil_02_001.aspx">해수욕장 백사장 모래</a>
+                      </li>
+				</ul>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<!--레프트메뉴 끝-->
+</div>		
+		<!--레프트영역 끝-->
+		<hr />    
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ToolkitScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+        
+	<!--컨텐츠 시작-->
+		<h2 class="blind">컨텐츠</h2>
+		<div id="contents">
+		
+			<!--컨텐츠 상단 시작-->
+			<div id="contents_top">
+				<!--타이틀 시작-->
+				<h3 class="blind">서브타이틀</h3>
+				<div id="contents_title">
+					<img src="../images/natural/title01_1.gif" alt="대기질정보" />
+				</div>
+				<!--타이틀 끝-->
+				<hr />
+				<!--라인맵 시작-->
+				<h3 class="blind">라인맵</h3>
+				<div id="linemap">
+					Home > 환경정보 > 대기환경 > <span class="point">대기질정보</span>
+				</div>
+				<!--라인맵 끝-->
+			</div>
+			<!--컨텐츠 상단 끝-->
+			<hr />
+
+			<!--본문 시작-->
+			<h2 class="blind">본문내용</h2>
+			<div id="content">
+			
+			<!--탭메뉴 시작-->
+				<div id="sub_tabmenu">
+					<ul>
+						<li><a href="../environmental/air001.aspx" title="실시간측정자료"><img src="../images/environmental/air001_tab_off01.gif" alt="실시간측정자료" /></a></li>
+						<li><a href="../environmental/air002_1.aspx" title="자료조회 [현재페이지]"><img src="../images/environmental/air001_tab_on02.gif" alt="자료조회 [현재페이지]" /></a></li>
+						<li><a href="../environmental/air003.aspx" title="통합대기환경지수"><img src="../images/environmental/air001_tab_off03.gif" alt="통합대기환경지수" /></a></li>
+						<li><a href="../environmental/air004.aspx" title="환경기준"><img src="../images/environmental/air001_tab_off04.gif" alt="환경기준" /></a></li>
+						<li><a href="../environmental/air005.aspx" title="측정소현황"><img src="../images/environmental/air001_tab_off05.gif" alt="측정소현황" /></a></li>
+						
+					</ul>
+				</div>
+				<!--탭메뉴 끝-->
+
+<!--본문-->     
+				<h1 id="sub_title01">자료조회</h1>
+				<hr />			
+				<div id="sub_text">
+			    <div>
+			             <div id="ctl00_ContentPlaceHolder1_TabContainer1" class="ajax__tab_xp" style="visibility:hidden;">
+	<div id="ctl00_ContentPlaceHolder1_TabContainer1_header">
+		<span id="__tab_ctl00_ContentPlaceHolder1_TabContainer1_TabPanel1">측정소별</span><span id="__tab_ctl00_ContentPlaceHolder1_TabContainer1_TabPanel2">항목별</span><span id="__tab_ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3">일평균자료</span>
+	</div><div id="ctl00_ContentPlaceHolder1_TabContainer1_body" style="height:50px;">
+		<div id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel1" style="display:none;visibility:hidden;">
+			
+                                    <table width = "700" height = "50" summary="측정소별 자료검색 조건">
+                                    <caption  class="blind">측정소별 자료검색 조건에 대한 표</caption>			            
+			                            <tr>
+			                                <td style="width: 58px"><span id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel1_Label1" style="font-weight:bold;">측정소</span></td>
+			                                <td style="width: 120px"><select name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel1$ddlSite" id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel1_ddlSite" style="height:20px;width:100px;">
+				<option selected="selected" value="221112">광복동</option>
+				<option value="221202">장림동</option>
+				<option value="221181">학장동</option>
+				<option value="221182">덕천동</option>
+				<option value="221221">연산동</option>
+				<option value="221172">대연동</option>
+				<option value="221191">청룡동</option>
+				<option value="221152">전포동</option>
+				<option value="221141">태종대</option>
+				<option value="221231">기장읍</option>
+				<option value="221211">대저동</option>
+				<option value="221251">부곡동</option>
+				<option value="221271">광안동</option>
+				<option value="221163">명장동</option>
+				<option value="221212">녹산동</option>
+				<option value="221233">용수리</option>
+				<option value="221192">좌동</option>
+				<option value="221241">수정동</option>
+				<option value="221281">대신동</option>
+				<option value="221282">덕포동</option>
+				<option value="221284">당리동</option>
+				<option value="221283">개금동</option>
+				<option value="221142">청학동</option>
+				<option value="221193">재송동</option>
+				<option value="221183">화명동</option>
+				<option value="221162">온천동(도로변)</option>
+				<option value="221131">초량동(도로변)</option>
+				<option value="221213">명지동</option>
+				<option value="221253">회동동</option>
+				<option value="221174">용호동</option>
+				<option value="221184">삼락동</option>
+
+			</select></td>
+			                                <td style="width: 454px"><span id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel1_Label2" style="font-weight:bold;">의 최근 24시간 자료</span></td>	
+			                                <td> 
+                                                <input type="image" name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel1$ImageButton1" id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel1_ImageButton1" src="../img/btn_search.gif" style="border-width:0px;" /></td>		                    
+			                            </tr>			          
+			                        </table>
+                                
+		</div><div id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel2" style="display:none;visibility:hidden;">
+			
+                                    <table width = "700" height = "50" summary="항목별 자료검색 조건">
+                                    <caption  class="blind">항목별 자료검색 조건에 대한 표</caption>			            
+			                            <tr>
+			                                <td style="width: 58px"><span id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel2_Label3" style="font-weight:bold;">측정항목</span></td>
+			                                <td style="width: 120px"><select name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel2$ddlItem" id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel2_ddlItem" style="height:20px;width:100px;">
+				<option selected="selected" value="PM-2.5">초미세먼지</option>
+				<option value="PM-10">미세먼지</option>
+				<option value="SO2">아황산가스</option>
+				<option value="O3">오존</option>
+				<option value="NO2">이산화질소</option>
+				<option value="CO">일산화탄소</option>
+
+			</select></td>
+			                                <td style="width: 454px"><span id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel2_Label4" style="font-weight:bold;">의 최근 24시간 자료</span></td>	
+			                                <td> 
+                                                <input type="image" name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel2$ImageButton2" id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel2_ImageButton2" src="../img/btn_search.gif" style="border-width:0px;" /></td>		                 
+			                            </tr>			          
+			                        </table>
+                                
+		</div><div id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3" style="display:none;visibility:hidden;">
+			
+                                    <table width = "700" height = "50" summary="일평균자료 자료검색 조건">
+                                    <caption  class="blind">일평균자료 자료검색 조건에 대한 표</caption>			            
+			                            <tr>
+			                                <td style="width: 53px"><span id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3_Label5" style="font-weight:bold;">측정소</span></td>
+			                                <td style="width: 106px"><select name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel3$ddlSiteFix" id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3_ddlSiteFix" style="height:20px;width:100px;">
+				<option value="221112">광복동</option>
+				<option value="221202">장림동</option>
+				<option value="221181">학장동</option>
+				<option value="221182">덕천동</option>
+				<option value="221221">연산동</option>
+				<option value="221172">대연동</option>
+				<option value="221191">청룡동</option>
+				<option value="221152">전포동</option>
+				<option selected="selected" value="221141">태종대</option>
+				<option value="221231">기장읍</option>
+				<option value="221211">대저동</option>
+				<option value="221251">부곡동</option>
+				<option value="221271">광안동</option>
+				<option value="221163">명장동</option>
+				<option value="221212">녹산동</option>
+				<option value="221233">용수리</option>
+				<option value="221192">좌동</option>
+				<option value="221241">수정동</option>
+				<option value="221281">대신동</option>
+				<option value="221282">덕포동</option>
+				<option value="221284">당리동</option>
+				<option value="221283">개금동</option>
+				<option value="221142">청학동</option>
+				<option value="221193">재송동</option>
+				<option value="221183">화명동</option>
+				<option value="221162">온천동(도로변)</option>
+				<option value="221131">초량동(도로변)</option>
+				<option value="221213">명지동</option>
+				<option value="221253">회동동</option>
+				<option value="221174">용호동</option>
+				<option value="221184">삼락동</option>
+
+			</select></td>
+                                            <td> <span id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3_Label7" style="font-weight:bold;">의 </span></td>
+                                            <td style="width: 84px"> <select name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel3$ddlYear" id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3_ddlYear" style="height:20px;width:70px;">
+				<option value="2010년">2010년</option>
+				<option value="2011년">2011년</option>
+				<option value="2012년">2012년</option>
+				<option value="2013년">2013년</option>
+				<option value="2014년">2014년</option>
+				<option value="2015년">2015년</option>
+				<option value="2016년">2016년</option>
+				<option value="2017년">2017년</option>
+				<option value="2018년">2018년</option>
+				<option value="2019년">2019년</option>
+				<option value="2020년">2020년</option>
+				<option value="2021년">2021년</option>
+				<option selected="selected" value="2022년">2022년</option>
+				<option value="2023년">2023년</option>
+
+			</select></td>
+                                            <td style="width: 85px"> <select name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel3$ddlMonth" id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3_ddlMonth" style="height:20px;width:70px;">
+				<option value="01월">01월</option>
+				<option value="02월">02월</option>
+				<option value="03월">03월</option>
+				<option value="04월">04월</option>
+				<option value="05월">05월</option>
+				<option value="06월">06월</option>
+				<option value="07월">07월</option>
+				<option selected="selected" value="08월">08월</option>
+				<option value="09월">09월</option>
+				<option value="10월">10월</option>
+				<option value="11월">11월</option>
+				<option value="12월">12월</option>
+
+			</select></td>	
+			                                <td style="width: 284px"> <span id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3_Label6" style="font-weight:bold;"> 일평균자료</span></td>	
+			                                <td> 
+                                                <input type="image" name="ctl00$ContentPlaceHolder1$TabContainer1$TabPanel3$ImageButton3" id="ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3_ImageButton3" src="../img/btn_search.gif" style="border-width:0px;" /></td>		                 
+			                            </tr>			          
+			                        </table>
+                                
+		</div>
+	</div>
+</div>				        
+			        </div>
+			        <br/>   
+					<h2 id="sub_title02">태종대 측정소 대기질 정보 일평균자료 조회 결과</h2>
+                    <br/> <h2 id="sub_text_right">PM2.5항목은 2015년부터 환경기준이 적용됩니다.</h2>
+					<div id="sub_table01_height_small">	
+                 <table >
+                 
+
+               <thead>
+                 <tr>
+					<th colspan = "4"></th>
+                 </tr>
+                 <tr>   
+                    <td id="sub_normtd_blue"><img src="../img/all/cai1.png" width="17" height="16" alt="파랑" /> 좋음</td>
+                    <td id="sub_normtd_green"><img src="../img/all/cai2.png" width="17" height="16" alt="초록" /> 보통</td>
+                    <td id="sub_normtd_yellow"><img src="../img/all/cai3.png" width="17" height="16" alt="노랑" /> 나쁨</td>
+                   
+                    <td id="sub_normtd_red"> <img src="../img/all/cai5.png" width="17" height="16" alt="빨강" /> 매우나쁨</td>
+                 
+                    
+               
+                 </tr>
+                 </thead>
+                 </table>
+                 
+                 </div>
+                    <div id="sub_table01">					
+						<table summary="측정소별 대기질정보 일평균자료 조회 결과">
+							<caption  class="blind">측정소별 대기질 정보 일평균자료 조회 결과에 대한 표</caption>
+							<colgroup>
+								<col style="width:16%;" />
+								<col style="width:14%;" />
+								<col style="width:14%;" />
+								<col style="width:14%;" />
+								<col style="width:14%;" />
+								<col style="width:14%;" />		
+                                <col style="width:16%;" />	
+							</colgroup>
+							<thead>
+                            <tr align = 'center' bgcolor='#f6f6f6'><th rowspan = '2'>측정 시간</th><th colspan = '6'>측정항목</th></tr><tr align = 'center' bgcolor='#f6f6f6'><th>초미세먼지<br/>PM-2.5(㎍/㎥)</th><th>미세먼지<br/>PM-10(㎍/㎥)</th><th>아황산가스<br/>SO2(ppm)</th><th>오존<br/>O3(ppm)</th><th>이산화질소<br/>NO2(ppm)</th><th>일산화탄소<br/>CO(ppm)</th></tr><tr align = 'center' bgcolor='#f6f6f6'><th>환경기준</th><th>35/24/h이하</th><th>100/24h이하</th><th>0.15/1h이하</th><th>0.1/1h이하</th><th>0.1/1h이하</th><th>25/1h이하</th></tr>
+							</thead>
+							<tbody>
+							<tr><td id='sub_time'>08월 01일</td><td align='center' id='sub_normtd_blue'>5</td><td align='center' id='sub_normtd_blue'>17</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.004</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr><td id='sub_time'>02일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.017</td><td align='center' id='sub_normtd_blue'>0.008</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr><td id='sub_time'>03일</td><td align='center' id='sub_normtd_blue'>2</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.009</td><td align='center' id='sub_normtd_blue'>0.012</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr><td id='sub_time'>04일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.015</td><td align='center' id='sub_normtd_blue'>0.015</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>05일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>06일</td><td align='center' id='sub_normtd_blue'>6</td><td align='center' id='sub_normtd_blue'>17</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.022</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>07일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.023</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>08일</td><td align='center' id='sub_normtd_blue'>3</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.019</td><td align='center' id='sub_normtd_blue'>0.009</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr><td id='sub_time'>09일</td><td align='center' id='sub_normtd'>점검중</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.017</td><td align='center' id='sub_normtd_blue'>0.01</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr><td id='sub_time'>10일</td><td align='center' id='sub_normtd'>점검중</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.015</td><td align='center' id='sub_normtd_blue'>0.011</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr><td id='sub_time'>11일</td><td align='center' id='sub_normtd'>점검중</td><td align='center' id='sub_normtd_blue'>7</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.01</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr><td id='sub_time'>12일</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>23</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.039</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>13일</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.038</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>14일</td><td align='center' id='sub_normtd_blue'>5</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.022</td><td align='center' id='sub_normtd_blue'>0.016</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>15일</td><td align='center' id='sub_normtd_blue'>2</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.015</td><td align='center' id='sub_normtd_blue'>0.01</td><td align='center' id='sub_normtd_blue'>0.1</td></tr><tr><td id='sub_time'>16일</td><td align='center' id='sub_normtd_blue'>5</td><td align='center' id='sub_normtd_blue'>16</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.018</td><td align='center' id='sub_normtd_blue'>0.016</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>17일</td><td align='center' id='sub_normtd_blue'>3</td><td align='center' id='sub_normtd_blue'>6</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.052</td><td align='center' id='sub_normtd_blue'>0.008</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>18일</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>17</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.045</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.3</td></tr><tr><td id='sub_time'>19일</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>18</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.033</td><td align='center' id='sub_normtd_blue'>0.016</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>20일</td><td align='center' id='sub_normtd_blue'>5</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.024</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>21일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>15</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.038</td><td align='center' id='sub_normtd_blue'>0.007</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>22일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>18</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.029</td><td align='center' id='sub_normtd_blue'>0.018</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>23일</td><td align='center' id='sub_normtd_blue'>7</td><td align='center' id='sub_normtd_blue'>18</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.031</td><td align='center' id='sub_normtd_blue'>0.019</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>24일</td><td align='center' id='sub_normtd_blue'>3</td><td align='center' id='sub_normtd_blue'>8</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_green'>0.031</td><td align='center' id='sub_normtd_blue'>0.008</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>25일</td><td align='center' id='sub_normtd_blue'>6</td><td align='center' id='sub_normtd_blue'>16</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.038</td><td align='center' id='sub_normtd_blue'>0.011</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>26일</td><td align='center' id='sub_normtd_blue'>9</td><td align='center' id='sub_normtd_blue'>23</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.054</td><td align='center' id='sub_normtd_blue'>0.011</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>27일</td><td align='center' id='sub_normtd_blue'>14</td><td align='center' id='sub_normtd_blue'>28</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.043</td><td align='center' id='sub_normtd_blue'>0.013</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>28일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>13</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_green'>0.034</td><td align='center' id='sub_normtd_blue'>0.005</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>29일</td><td align='center' id='sub_normtd_blue'>3</td><td align='center' id='sub_normtd_blue'>17</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.027</td><td align='center' id='sub_normtd_blue'>0.008</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>30일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>14</td><td align='center' id='sub_normtd_blue'>0.003</td><td align='center' id='sub_normtd_blue'>0.025</td><td align='center' id='sub_normtd_blue'>0.012</td><td align='center' id='sub_normtd_blue'>0.2</td></tr><tr><td id='sub_time'>31일</td><td align='center' id='sub_normtd_blue'>4</td><td align='center' id='sub_normtd_blue'>10</td><td align='center' id='sub_normtd_blue'>0.002</td><td align='center' id='sub_normtd_blue'>0.024</td><td align='center' id='sub_normtd_blue'>0.014</td><td align='center' id='sub_normtd_blue'>0.2</td></tr>								
+												
+							</tbody>
+						</table>
+					</div>
+                    <table width='700'>
+                        <tr>&nbsp;</tr>
+                        <tr>
+                            <td align ="right">
+                            <input type="image" name="ctl00$ContentPlaceHolder1$ImageButton5" id="ctl00_ContentPlaceHolder1_ImageButton5" src="../img/btn_xlsdown.gif" style="border-width:0px;" />
+                            </td>
+                        </tr>
+                    </table>
+				</div>
+	                <!--본문-->
+
+			</div>
+			<!--본문 끝-->
+			<hr />
+		</div>
+
+    </div>
+</div>
+<!--서브 끝-->
+
+<!--하단 시작-->
+<?xml version="1.0" encoding="euc-kr"?>
+
+<!--하단 시작-->
+<h2 class="blind">하단</h2>
+<div id="body_copy">
+	<div id="copy_wrap">
+		<h3 class="blind">로고</h3>
+		<div class="copy_logo">
+			<a href="/" title="Home 이동"><img src="../images/common/copy_logo.gif" alt="" /></a>
+			<a href="/" title="Home 이동"><img src="../images/common/copy_logo_title.gif" alt="" class="pad_l01" /></a>
+		</div>
+		<hr />
+		<div class="copy_box">
+			<!--하단메뉴 시작-->
+			<h3 class="blind">하단메뉴</h3>
+			<div class="copymenu">
+				<!--<div class="copymenu01">
+					<ul>
+						<li><a href="#none">개인정보보호방침</a></li>
+						<li>│</li>
+						<li><a href="#none">행정서비스헌장</a></li>
+						<li>│</li>
+						<li><a href="#none">자치법규</a></li>
+						<li>│</li>
+						<li><a href="/menu07/sitemap.php">연구원예산</a></li>
+						<li>│</li>
+						<li><a href="#none">의견수련게시판</a></li>
+					</ul>
+				</div>
+				<div class="copymenu02">
+					<label for="search">
+						<select id="search" name="sKey" style="width:130px;">
+							<option value="#">:::관련사이트:::</option>
+						</select>
+					</label>
+					<a href="#"><img src="../images/common/btn_go.gif" alt="" /></a>
+				</div>-->
+			</div>
+			<!--하단메뉴 끝-->
+			<hr />
+			<!--카피라이터 시작-->
+			<h3 class="blind">카피라이터</h3>
+      <div class="copyright">
+        (우:46616) 부산광역시 북구 함박봉로 140번길 120 (만덕동 945-5) 부산광역시 부산보건환경연구원(민원실) | Tel : 051-309-2730<br />Copyright(C) <span class="copy_color01">Busan Metropolitan city</span>. All rights reserved.
+      </div>
+			<!--카피라이터 끝-->
+			<hr />
+			<!--카피룰 시작-->
+			<!--<div class="copy_rule">
+				홈페이지의 모든 내용들은 부산시의 허락없이 무단복제가 불가합니다.
+			</div>-->
+			<!--카피룰 끝-->
+		</div>
+	</div>
+</div>
+<!--하단 끝-->
+
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_ContentPlaceHolder1_TabContainer1_TabPanel1")}, null, {"owner":"ctl00_ContentPlaceHolder1_TabContainer1"}, $get("ctl00_ContentPlaceHolder1_TabContainer1_TabPanel1"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_ContentPlaceHolder1_TabContainer1_TabPanel2")}, null, {"owner":"ctl00_ContentPlaceHolder1_TabContainer1"}, $get("ctl00_ContentPlaceHolder1_TabContainer1_TabPanel2"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3")}, null, {"owner":"ctl00_ContentPlaceHolder1_TabContainer1"}, $get("ctl00_ContentPlaceHolder1_TabContainer1_TabPanel3"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabContainer, {"activeTabIndex":2,"clientStateField":$get("ctl00_ContentPlaceHolder1_TabContainer1_ClientState")}, null, null, $get("ctl00_ContentPlaceHolder1_TabContainer1"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
+<!--하단 끝--> 
+    
+   
+
+    
